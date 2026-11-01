@@ -1,0 +1,8 @@
+# Dependencies / Binaries
+mingit/
+mingit.zip
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.log
