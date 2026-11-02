@@ -103,3 +103,4 @@ Right-click index.html -> "Open with Live Server"
 ```
 
 Open `http://localhost:5500/` in your browser.
+
